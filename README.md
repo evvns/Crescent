@@ -42,3 +42,9 @@ end
 ```
 
 returns [this pile of code](https://raw.githubusercontent.com/equationsoftworks/Crescent/main/ex2.lua)
+
+
+## More info
+Crescent is open source software and is **not the most secure option**. This is simply a passion project, keep that in mind.
+With that being said, have fun hacking our obfuscator and see what you can do with it.
+- timecop, Equation Softworks
