@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://files.doxbin.gg/I6mh6PHZ.png" height=300>
+<img src="https://files.doxbin.gg/I6mh6PHZ.png" height=190>
 </div>
 <hr>
 
